@@ -2,8 +2,8 @@
 
 TP Integrador "Una base de datos que se juega" · Informática II · UNNE · Proyecto C
 
-**Equipo:** [nombre del equipo]
-**Integrantes:** [nombres]
+**Equipo:** Los DELETE sin WHERE 
+**Integrantes:** Axel Fernán Aguirre, Guillermo Ruben Vallejos, Alberto Eduardo Leiva 
 
 Un héroe avanza por una mazmorra y se enfrenta a un monstruo. Para atacarlo tiene que
 responder preguntas que le propone la base de datos: si acierta, el monstruo pierde vida
